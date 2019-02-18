@@ -1,7 +1,7 @@
 package documentacion;
 /**
  * 
- * @author 1dam - Ander
+ * @author 1dam - Ander Valero
  *@
  */
 public class Ejemplo_docu {
